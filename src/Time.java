@@ -41,10 +41,7 @@ public class Time {
 
 	}
 
-	public void caulculaIdade() {
-
-	}
-
+	
 	public String getCategoria() {
 		return categoria;
 	}
