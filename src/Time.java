@@ -22,5 +22,11 @@ public class Time {
 	public void setHistorico(String historico) {
 		this.historico = historico;
 	}
+public void contagemRegressiva() {
+	
+}
 
+public void caulculaIdade() {
+	
+}
 }
