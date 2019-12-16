@@ -60,5 +60,16 @@ public class Time {
 	public String getHistorico() {
 		return historico;
 	}
+	
+	public void imprimeInfo(String nome, String categoria,int anoCriacao,
+			int quantSocios, String historico, int idadeTime) {
+		
+		System.out.println("O nome do Time é:" + this.nome);
+		System.out.println("O nome do Time é:" + this.categoria);
+		System.out.println("O nome do Time é:" + this.anoCriacao);
+		System.out.println("O nome do Time é:" + this.quantSocios);
+		System.out.println("O nome do Time é:" + this.historico);
+		System.out.println("O nome do Time é:" + this.idadeTime);
+	}
 
 }
