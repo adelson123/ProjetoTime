@@ -38,7 +38,7 @@ public class Time {
 	}
 
 	public void contagemRegressiva() {
-
+		System.out.println("Faltam " + (100-this.idadeTime) + " dias para o centenário do time");
 	}
 
 	
