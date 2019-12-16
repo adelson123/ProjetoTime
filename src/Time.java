@@ -10,4 +10,28 @@ public class Time {
 		this.nome = nome;
 		this.categoria = categoria;
 	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public String getCategoria() {
+		return categoria;
+	}
+
+	public int getAnoCriacao() {
+		return anoCriacao;
+	}
+
+	public int getQuantSocios() {
+		return quantSocios;
+	}
+
+	public String getHistorico() {
+		return historico;
+	}
+	
+
+
+	
 }
